@@ -25,7 +25,7 @@ void dhusse4(){
   printf("Dua'a Hussein. My partner didn't show up.\n");
   printf("Something that I learned about gitHub was that it is very easy to lose ");
   printf("track of what's going on. It's easy once you get the hang of it though.\n");
-  printf("Anyway, this isn't all that bad once you get used to it. It's helpful\n");
+  printf("Anyway, this isn't all that bad once you get used to it. It's helpful\n")
 }
 
 int main()
